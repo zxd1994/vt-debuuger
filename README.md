@@ -4,12 +4,14 @@ vt调试器:
 1. ept hook.
 2. 无痕int3.
 3. 自建调试体系隐藏debugport.
-4. 支持平台 win10 x64 intel architecture cpu.
+4. 支持pdb符号自动下载，省去寻找特征码步骤,轻松兼容不同系统版本.
+5. 支持平台 win10 x64 intel architecture cpu.
 
 the soruce code is based in hyperhide, with less modify it can debug a lot games.
 vt debugger:
 1. ept hook.
 2. invisible int3 breakpoint.
 3. self constrcution of debug system hide debugport.
-4. support platform win10 x64 intel architecture cpu.
+4. 4. download pdb automally, compatible with different system.
+5. support platform win10 x64 intel architecture cpu.
 
