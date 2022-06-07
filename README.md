@@ -4,7 +4,7 @@ vt调试器:
 2.无痕int3
 3.自建调试体系隐藏debugport
 
-//the soruce code is based in hyperhide, with less modify it can debug a lot games,
+the soruce code is based in hyperhide, with less modify it can debug a lot games,
 vt debugger:
 1.ept hook
 2.invisible int3 breakpoint
